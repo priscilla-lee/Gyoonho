@@ -1,8 +1,7 @@
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdOut;
 
-
-public class idf_matrix {
+public class IdfMatrix {
     public static void main(String[] args) {
 
         double[][] tf = new double[29][251715];
